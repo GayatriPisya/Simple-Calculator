@@ -1,6 +1,7 @@
 # Gayatri's Calculator
 
-![Screenshot 2024-06-29 123615](https://github.com/GayatriPisya/Calculator/assets/157793060/61dbd85b-de5a-4f4d-8f07-b876f2eeed74)
+![Screenshot 2024-06-29 123615](https://github.com/user-attachments/assets/07721d97-b90f-444e-a385-0a10790e7d63)
+
 
 
 
@@ -15,7 +16,8 @@ This project is a fully functional calculator web application built using HTML, 
 - **Backspace Button**: Deletes the last character entered.
 - **Parentheses Support**: Allows for complex calculations.
 - **Light and Dark Theme Toggler**: Switch between light and dark themes with a single click.
-  ![Screenshot 2024-06-29 123703](https://github.com/GayatriPisya/Calculator/assets/157793060/79d5c328-9a7b-4579-a205-68cd962f85c2)
+  ![Screenshot 2024-06-29 123703](https://github.com/user-attachments/assets/e255b0c6-1a5e-4675-be01-7c7faabdf7ec)
+
 
 ## Skills Used
 
